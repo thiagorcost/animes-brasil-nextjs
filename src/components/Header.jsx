@@ -36,7 +36,7 @@ export default function Header() {
 
 // 💅 Estilos do Header
 const HeaderContainer = styled.header`
-  background-color: #1e293b;
+  background-color: #F58B27;
   color: white;
   padding: 1rem 2rem;
   position: fixed;
