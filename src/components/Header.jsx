@@ -95,6 +95,6 @@ const LoginButton = styled.button`
   transition: color 0.2s ease;
 
   &:hover {
-    color: #10b981;
+    color: #2768F5;
   }
 `;
